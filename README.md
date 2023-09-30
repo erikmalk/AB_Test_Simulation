@@ -52,3 +52,5 @@ For any questions or feedback, please contact [Erik Malkemus](mailto:erikmalk@gm
 ## Note
 
 While both MATLAB and Python versions accomplish similar tasks, there might be slight differences in features and user interface. The Python version is recommended for the latest improvements and interactive visualization capabilities.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erikmalk/AB_Test_Simulation/HEAD?labpath=AB_Test_Simulations_Gen.ipynb)
